@@ -1,0 +1,9 @@
+name=atif
+
+workflow_dispatch:
+jobs:
+onduty-men:
+run-on: ubuntu-latest
+name: say hello to evryone 
+run: echo " hellow dosto"
+
